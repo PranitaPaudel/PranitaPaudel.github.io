@@ -1,0 +1,327 @@
+
+@font-face {
+    font-family: 'HelveticaNeue-Thin';
+    src: local('HelveticaNeue-Thin.otf'), url('HelveticaNeue-Thin.otf') format('opentype');
+}
+.navbar-text{
+    font-weight: bold;
+    color: black !important;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.container-fluid{
+    max-width: 1000px !important;
+    width: 100% !important;
+}
+.nav-link{
+    text-transform: uppercase;
+    padding-left: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+.active{
+    color: #45B39D !important;
+}
+.blue{
+    color:#45B39D ;
+}
+.btn-secondary{
+    background-color: #45B39D !important;
+}
+.btn-outline-secondary:hover{
+    background-color: #45B39D !important;
+}
+
+/*#header{
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-light-rgb),var(--bs-bg-opacity))!important;
+    padding-bottom: 70px;
+}*/
+
+.hey{
+    padding-top: 75px;
+}
+.intro{
+    text-transform: capitalize;
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+}
+.intro-para{
+    padding-top: 15px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+}
+.hey{
+    font-family: 'HelveticaNeue-Thin';
+    font-size: 18px;
+}
+.follow,
+.insta,
+.youtube,
+.dribble{
+    display: inline-flex;
+    margin:10px 0px;
+}
+.follow{
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+.insta,
+.dribble,
+.youtube{
+    width: 10%;
+    padding-left: 10px;
+    cursor: pointer;
+}
+.btn
+{
+    margin-right: 15px;
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: capitalize;
+}
+.faceimg{
+    width: 110%;
+    margin-top: 70px;
+    margin-left: 130px;
+    border-radius: 50%;
+}
+#content-1 .row{
+    
+    align-items: center;
+    --bs-bg-opacity: 1;
+    background-color:#A3E4D7!important;
+    border-radius: 25px;
+    margin-top: 40px;
+    padding: 40px 40px;
+    margin:100px 10px;
+    
+}
+.faceimg2{
+    width: 100%;
+    border-radius: 10%;
+}
+.para,
+.para1{
+    font-family: 'Montserrat', sans-serif;
+  font-size: 18px;   
+}
+.con-head{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 15px;
+}
+.con-para{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+#content-2 .container-fluid{
+    margin-bottom: 40px;
+}
+.btn-light{
+    background-color:#45B39D !important;
+    float: right !important;
+    margin-top: 0px;
+    color: white !important;
+}
+.con2-img{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.con2-head{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+.con2-head-img1{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.con2-head-img2{
+    margin-left: 30px;
+    margin-right: 10px;
+}
+.con2-para{
+    font-family: 'Montserrat', sans-serif;
+}
+.con3-head{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.con3-img{
+    width: 100%;
+    border-radius: 10%;
+}
+.con3-head1{
+    margin-top: 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 30px;
+}
+.con3-para{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin-bottom: 40px;
+}
+#content-4 .container-fluid{
+    background-color: #73C6B6;
+    border-radius: 25px;
+    padding: 40px 30px;
+}
+.con4-head{
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+.col4-btn{
+   background-color: white;
+   margin-top: 60px;
+   margin-left: 40px;
+}
+.mail-img{
+    padding-bottom: 5px;
+    padding-right: 3px;
+    background-color: #45B39D !important;
+}
+.logo-img{
+    width: 90%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 45px;
+}
+.card-img{
+    padding-top: 10px;
+    width: 30% !important;
+}
+.card-text3{
+    padding-top: 85px;
+    font-family: 'Montserrat', sans-serif;
+}
+.card-text{
+    padding-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+#tetimonial{
+    background-color: #ABEBC6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#tetimonial h6{
+    font-family: 'Montserrat', sans-serif;
+}
+.tetimonial-head{
+    text-align: center;
+    font-size: 35px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+#tetimonial .white-bg{
+    background-color: white !important;
+   padding: 20px 20px;
+   margin-right: 80px;
+   margin-bottom: 60px;
+   border-radius: 25px 0px 25px 25px; 
+}
+.footer-head,
+.footer-img{
+    display: inline-flex;
+}
+.footer-img{
+    margin-left: 200px;
+}
+.footer-img1,
+.footer-img2,
+.footer-img3{
+      padding-left: 20px;
+      margin-top: 15px;
+}
+#scrollToTopBtn {
+    background-color:white !important;
+    color:white;
+    border-color: white !important;
+    cursor: pointer;
+    font-size: 18px;
+    float: right;
+    margin-top: 15px;
+    text-transform: capitalize;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #45B39D !important;
+}
+.backtotop-img{
+    width: 10%;
+    margin-bottom: 2px;
+}
+.footer-head{
+    margin-bottom: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+#footer-title{
+    display: inline;
+}
+
+
+@media only screen and (max-width:767px){
+    .faceimg{
+        display: none;
+        margin-left: 0px !important;
+    }
+   .mail-btn{
+      /* margin-right: 338px;*/
+      
+   }
+   .white-bg{
+       border-radius: 0px 0px 0px 0px !important;
+   }
+   .card-img{
+       width: 10% !important;
+   }
+   #scrollToTopBtn{
+       margin-right: 190px !important;
+   }
+}
+
+@media only screen and (max-width:421px){
+    .con2-img{
+        width: 150% !important;
+        margin-left: -6px !important;
+    }
+    .break{
+        display:block;
+    }
+    
+    .con2-head-img2{
+        
+        margin-left: 9px !important;
+    }
+    #footer-container
+    {
+        /* text-align:center; */
+    }
+    #footer-title{
+        display: inline;
+        padding-top: 15px;
+        float: left;
+    }
+    #footer-descriptionn
+    {
+        display:inline;
+        margin: auto 0px;
+        padding-left: 70px;
+    }
+    #scrollToTopBtn{
+        float: right !important;
+        margin-right: 0px !important;
+    }
+
+}
+
+@media only screen and (max-width:554px){
+    .mal-btn{
+        position: fixed;
+    }
+ 
+.footer-img{
+    float: left !important;
+}
+}
