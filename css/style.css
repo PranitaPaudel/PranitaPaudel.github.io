@@ -176,7 +176,6 @@
 .col4-btn{
    background-color: white;
    margin-top: 60px;
-   margin-left: 40px;
 }
 .mail-img{
     padding-bottom: 5px;
@@ -266,10 +265,7 @@
         display: none;
         margin-left: 0px !important;
     }
-   .mail-btn{
-      /* margin-right: 338px;*/
-      
-   }
+
    .white-bg{
        border-radius: 0px 0px 0px 0px !important;
    }
@@ -294,10 +290,7 @@
         
         margin-left: 9px !important;
     }
-    #footer-container
-    {
-        /* text-align:center; */
-    }
+   
     #footer-title{
         display: inline;
         padding-top: 15px;
